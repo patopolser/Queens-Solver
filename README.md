@@ -2,6 +2,9 @@
 
 A computer vision and automation tool that **detects a Queens puzzle grid directly from the screen** and **solves it automatically**.  
 
+![VdeosinttuloHechoconClipchamp3-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8056aed1-b90f-456d-acd7-cbf644ec4730)
+
+[Full Demo](https://www.youtube.com/watch?v=QNjWrdYeiVg)
 ## Features
 
 - Detects the Queens puzzle grid in real time using OpenCV.  
